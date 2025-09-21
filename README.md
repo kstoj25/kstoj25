@@ -1,4 +1,14 @@
-## Hi there 👋
+## ✨Hi, I'm Katarina Stojanovic!✨
+I'm a Data Science student, with a concentration in Bioinformatics, at UIC. I have experience with cleaning and modeling both biological and marketing data, as well as applying machine learning to solve problems.
+
+
+### Tech Stack and Skills💻
+- Programming: SQL, Python, R, C, C++, SAS, MATLAB
+- Data Science and Analysis: Google BigQuery, Pandas, NumPy, PiwikPro, Google Analytics 4
+- Languages: Serbian and other south-Slavic languages (Native), German (Conversational), English (Fluent)
+
+
+
 
 <!--
 **kstoj25/kstoj25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
